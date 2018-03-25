@@ -1,6 +1,6 @@
-name: Bedford Lab Research
-description: Science updates on evolution, epidemiology and immunology from the Bedford lab at the Fred Hutch
-url: http://bedford.io
+name: HRC2 - Human-Robot Collaboration and Companionship Lab
+description: Human-Robot Collaboration and Companionship (Hoffman) Lab at Cornell University
+url: http://hrc2.io
 
 markdown: redcarpet
 permalink: /:categories/:title/
